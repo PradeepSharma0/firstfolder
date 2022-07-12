@@ -1,2 +1,2 @@
 This is from B file the second
-This is the second line from B-Master
+
